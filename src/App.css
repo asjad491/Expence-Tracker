@@ -236,14 +236,14 @@ body {
   
   .blue-btn {
     margin-right: 4px;
-    background-color: #3f51b5;
+    background-color:  #3F51B5;
     color: #fff;
-    padding: 9px 24px;
+    padding: 8px 26px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    transition: background-color .3s ease;
-    margin-top: 97px;
+    transition: background-color 0.3s ease;
+    margin-top: 10px;
   }
   
 
